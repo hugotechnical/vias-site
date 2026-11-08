@@ -6,7 +6,8 @@ CÓ SẴN: giao diện mobile/desktop, 2 ngôn ngữ Việt/Anh, menu cuộn, d�
 
 LƯU Ý TRƯỚC KHI PHÁT HÀNH:
 - Logo chính thức (logo VIAS PickleBall.jpg) đã được tích hợp: header/footer dùng assets/logo-160.jpg, favicon assets/favicon-16.png + favicon-32.png (biểu tượng vợt), Apple touch icon assets/apple-touch-icon.png, ảnh chia sẻ mạng xã hội assets/og-image.jpg (1200x630). og:image đang trỏ tới GitHub Pages; khi có domain riêng, đổi sang URL domain mới. Nên xin file logo vector (SVG/AI) nền trong suốt để thay bản JPG.
-- Hình ảnh người chơi từ Báo Người Lao Động, ảnh check-in từ FPT Play/AAC; chưa có quyền tái sử dụng thương mại. Thay bằng ảnh sở hữu/có giấy phép.
+- 2026-11-08: đã gỡ toàn bộ ảnh báo chí (Người Lao Động, FPT Play/AAC) do rủi ro bản quyền ảnh và quyền hình ảnh VĐV (Điều 32 BLDS 2015); hero, mục Giải đấu và Gallery giờ chỉ dùng ảnh Facebook VIAS. Ảnh có người vẫn cần media consent trước khi production.
+- Video assets/video/vias-fullcourt-1080p.mp4 có watermark @shotbyzaynarlow: cần xin phép người quay trước khi production.
 - Ảnh trong assets/fb/ lấy từ Facebook công khai của VIAS (ảnh bìa render + 9 ảnh thumbnail 315px, chưa đăng nhập nên không có bản full-res và video). Cần VIAS cung cấp ảnh gốc độ phân giải cao và video để thay thế trước khi production.
 - Số sân 17 theo trang Sporttora năm 2026; xác nhận lại với VIAS.
 - Không có bảng giá, số điện thoại chính thức, lịch học hay tên coach được xác nhận, nên chưa đưa vào website.

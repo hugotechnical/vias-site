@@ -10,6 +10,7 @@ LƯU Ý TRƯỚC KHI PHÁT HÀNH:
 - Video assets/video/vias-fullcourt-1080p.mp4 có watermark @shotbyzaynarlow: cần xin phép người quay trước khi production.
 - Ảnh trong assets/fb/ lấy từ Facebook công khai của VIAS (ảnh bìa render + 9 ảnh thumbnail 315px, chưa đăng nhập nên không có bản full-res và video). Cần VIAS cung cấp ảnh gốc độ phân giải cao và video để thay thế trước khi production.
 - Banner chính (slideshow 6 ảnh): ảnh phối cảnh sân (assets/fb/venue-render.jpg) và 5 khung hình trích từ video toàn cảnh sân của @shotbyzaynarlow (assets/hero/). Ảnh trích từ video có watermark của tác giả; cần xin phép hoặc thay bằng ảnh chụp chính thức trước khi ra mắt.
+- CẦN VIAS XÁC NHẬN 2 số liệu tạm trên thanh số liệu: "2+ giải đấu đã tổ chức" (chỉ xác minh được Michelob ULTRA Asia Open 04–07/06/2026 và Giải Pickleball phường Tân Hưng mở rộng lần I 2026) và "3 tỷ+ tổng giải thưởng" (riêng Michelob ULTRA Asia Open 2026 là 3 tỷ đồng theo Báo Lao Động; APP HCMC Open 50.000 USD chưa diễn ra nên chưa cộng). Thay bằng số chính thức trước khi ra mắt.
 - Số sân: 33 sân (30 sân VIP + 3 sân thi đấu chuẩn quốc tế, khán đài dưới 1.000 người) theo nội dung giới thiệu do VIAS cung cấp ngày 26/11/2026. Đã thay số 17 cũ (nguồn Sporttora) ở thanh số liệu và ô đồ họa gallery.
 - Không có bảng giá, số điện thoại chính thức, lịch học hay tên coach được xác nhận, nên chưa đưa vào website.
 - Form KHÔNG gửi dữ liệu về máy chủ, không có backend hoặc CMS; đã ghi rõ trong trang.
